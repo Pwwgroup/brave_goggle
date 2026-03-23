@@ -3,6 +3,7 @@
 ! public: false
 ! author: MDunn
 
+$discard,site=find-and-update.company-information.service.gov.uk
 $discard,site=google.com
 $discard,site=facebook.com
 $discard,site=netflix.com
