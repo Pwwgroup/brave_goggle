@@ -5,7 +5,6 @@
 
 $discard,site=ukbizdb.co.uk
 $discard,site=mylocalservices.co.uk
-$discard,site=directory.*.co.uk
 $discard,site=open.endole.co.uk
 $discard,site=companycheck.co.uk
 $discard,site=doogal.co.uk
