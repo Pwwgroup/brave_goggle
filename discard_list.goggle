@@ -3,6 +3,7 @@
 ! public: false
 ! author: MDunn
 
+$discard,site=directory.*.co.uk
 $discard,site=open.endole.co.uk
 $discard,site=companycheck.co.uk
 $discard,site=doogal.co.uk
