@@ -3,7 +3,12 @@
 ! public: false
 ! author: MDunn
 
-
+$discard,site=rightmove.co.uk
+$discard,site=primelocation.com
+$discard,site=onthemarket.com
+$discard,site=zoopla.co.uk
+$discard,site=findthatpostcode.uk
+$discard,site=dnb.com
 $discard,site=endole.co.uk
 $discard,site=companycheck.co.uk
 $discard,site=companiesintheuk.co.uk
