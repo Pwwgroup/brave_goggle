@@ -3,7 +3,42 @@
 ! public: false
 ! author: MDunn
 
+
+$discard,site=endole.co.uk
+$discard,site=companycheck.co.uk
+$discard,site=companiesintheuk.co.uk
+$discard,site=doogal.co.uk
+$discard,site=ukpostcodecheck.com
+$discard,site=192.com
+$discard,site=secret-bases.co.uk
+$discard,site=local.standard.co.uk
+$discard,site=bizstats.co.uk
+$discard,site=zoominfo.com
+$discard,site=rocketreach.co
+$discard,site=pomanda.com
+$discard,site=opengovuk.com
+$discard,site=mapquest.com
+$discard,site=getthedata.com
+$discard,site=uk.globaldatabase.com
+$discard,site=northdata.com
+$discard,site=companysearchesmadesimple.com
+$discard,site=b2bhint.com
+$discard,site=streetcheck.co.uk
+$discard,site=checkmypostcode.uk
+$discard,site=bizdb.co.uk
+$discard,site=checkcompany.co.uk
+$discard,site=gbrbusiness.com
+$discard,site=tracxn.com
+$discard,site=pitchbook.com
+$discard,site=reportlet.co.uk
+$discard,site=businessmagnet.co.uk
+$discard,site=nextdoor.co.uk
+$discard,site=approvedbusiness.co.uk
+$discard,site=gb.kompass.com
 $discard,site=find-and-update.company-information.service.gov.uk
+$discard,site=cqc.org.uk
+$discard,site=carechoices.co.uk
+$discard,site=homecare.co.uk
 $discard,site=google.com
 $discard,site=facebook.com
 $discard,site=netflix.com
@@ -1000,3 +1035,6 @@ $discard,site=revopush.com
 
 $downrank=5,site=linkedin.com
 $downrank=5,site=glassdoor.com
+$downrank=5,site=nhs.uk
+$downrank=5,site=yell.com
+$downrank=5,site=yelp.co.uk
