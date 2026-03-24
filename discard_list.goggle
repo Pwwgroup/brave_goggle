@@ -3,6 +3,7 @@
 ! public: false
 ! author: MDunn
 
+$discard,site=streetscan.co.uk
 $discard,site=wheree.com
 $discard,site=ukbizdb.co.uk
 $discard,site=mylocalservices.co.uk
