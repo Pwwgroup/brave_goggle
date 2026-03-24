@@ -3,6 +3,16 @@
 ! public: false
 ! author: MDunn
 
+$discard,site=rm11.com
+$discard,site=watchesworld.com
+$discard,site=localopeningtimes.co.uk
+$discard,site=london-now.co.uk
+$discard,site=parkopedia.co.uk
+$discard,site=police-uk.org
+$discard,site=open-closed.co.uk
+$discard,site=planning.org.uk
+$discard,site=locaji.co.uk
+$discard,site=allinlondon.co.uk
 $discard,site=streetscan.co.uk
 $discard,site=wheree.com
 $discard,site=ukbizdb.co.uk
