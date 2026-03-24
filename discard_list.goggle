@@ -3,6 +3,17 @@
 ! public: false
 ! author: MDunn
 
+$discard,site=zmenu.com
+$discard,site=local-accountants-uk.co.uk
+$discard,site=romfordrecorder.co.uk
+$discard,site=restaurantji.co.uk
+$discard,site=skiddle.com
+$discard,site=dispensingrx.co.uk
+$discard,site=useyourlocal.com
+$discard,site=morningstar.com
+$discard,site=just-eat.co.uk
+$discard,site=xbiz.com
+$discard,site=puregym.com
 $discard,site=highstreetsurgery.co.uk
 $discard,site=zoominfo.com
 $discard,site=linkedin.com
