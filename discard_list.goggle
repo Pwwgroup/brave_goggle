@@ -3,6 +3,13 @@
 ! public: false
 ! author: MDunn
 
+$discard,site=highstreetsurgery.co.uk
+$discard,site=zoominfo.com
+$discard,site=linkedin.com
+$discard,site=glassdoor.com
+$discard,site=yell.com
+$discard,site=yelp.co.uk
+$discard,site=nhs.uk
 $discard,site=rm11.com
 $discard,site=watchesworld.com
 $discard,site=localopeningtimes.co.uk
@@ -1096,11 +1103,3 @@ $discard,site=tribunnews.com
 $discard,site=google.com.ar
 $discard,site=branch.io
 $discard,site=revopush.com
-
-
-$downrank=5,site=zoominfo.com
-$downrank=5,site=linkedin.com
-$downrank=5,site=glassdoor.com
-$downrank=5,site=nhs.uk
-$downrank=5,site=yell.com
-$downrank=5,site=yelp.co.uk
