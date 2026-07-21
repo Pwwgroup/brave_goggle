@@ -3,6 +3,10 @@
 ! public: false
 ! author: MDunn
 
+$discard,site=glassdoor.co.uk
+$discard,site=prospero.io
+$discard,site=energybrokers.org.uk
+$discard,site=leadiq.com
 $discard,site=postcodearea.co.uk
 $discard,site=geopunk.co.uk
 $discard,site=dnb.com
